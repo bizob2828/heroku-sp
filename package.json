@@ -1,0 +1,22 @@
+{
+  "name": "heroku-sp",
+  "version": "0.0.0",
+  "description": "Test app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bizob2828/heroku-sp.git"
+  },
+  "author": "Bob Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bizob2828/heroku-sp/issues"
+  },
+  "homepage": "https://github.com/bizob2828/heroku-sp",
+  "dependencies": {
+    "sparkpost": "^0.9.0"
+  }
+}
